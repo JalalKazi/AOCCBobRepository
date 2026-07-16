@@ -1,0 +1,138 @@
+Job Description –:- UiPath Administrator (Automation Cloud)
+
+Requirement
+
+Band 7A hands‑on experience in UiPath administration and enterprise RPA platform operations
+Flexible to work in multiple shift environment on rotation.
+
+
+Location
+
+Pune / India (or as applicable)
+
+
+Role Summary
+
+The UiPath Administrator is responsible for managing, securing, and optimizing the UiPath Automation Cloud (SaaS) platform across Dev, UAT, and Production environments. The role ensures high availability, performance, security, cost optimization, and governance while enabling cloud migrations, integrations, AI capabilities, and enterprise‑scale automation operations.
+
+
+UiPath Administrator – Key Role & Responsibilities
+
+Configuration of New Bot Environments
+
+*   Design, configure, and maintain UiPath environments such as Development, Test, Sandbox, UAT, and Production in Orchestrator.
+*   Configure robots, machines, runtimes, folders (modern or classic), and environment-specific settings.
+*   Ensure proper environment segmentation to support secure development, testing, and production deployments.
+*   Coordinate with infrastructure and security teams to validate environment readiness.
+
+
+
+User Onboarding / Offboarding & License Allocation
+
+*   Manage user onboarding and offboarding in UiPath Orchestrator in line with enterprise access policies.
+*   Assign roles, permissions, and folder access based on least‑privilege principles.
+*   Allocate and monitor UiPath licenses (Studio, Attended, Unattended, Test Automation, etc.).
+*   Reclaim licenses from deactivated users and optimize license usage to avoid cost overruns.
+*   Maintain documentation for user access, roles, and license mappings.
+
+
+
+Software Patching & Validation
+
+*   Plan and execute UiPath software upgrades and patches across all environments.
+*   Perform pre‑upgrade checks, compatibility validation, and backup activities.
+*   Validate post‑patch functionality for Studio, Robots, Orchestrator, and integrations.
+*   Coordinate with RPA teams to minimize downtime and ensure production stability.
+*   Maintain patching schedules and version documentation.
+
+
+
+Certificate Management
+
+*   Manage digital certificates required for:
+    *   Secure Orchestrator communication
+    *   Credential encryption
+    *   Web application trust
+*   Install, renew, rotate, and revoke certificates as per security policies.
+*   Ensure certificate validity to prevent bot downtime or authentication failures.
+*   Coordinate with enterprise PKI / security teams for certificate lifecycle management.
+
+
+Proactive Software & License Tracking
+
+*   Continuously monitor UiPath software versions, robot health, and license consumption.
+*   Track license utilization trends and forecast future license requirements.
+*   Proactively identify expiring licenses, certificates, or unsupported versions.
+*   Generate periodic reports for stakeholders on license usage and platform health.
+
+
+
+UiPath Application Security
+
+*   Implement security best practices for UiPath Orchestrator, including:
+    *   Role‑based access control (RBAC)
+    *   Secure credential storage (Assets, CyberArk/Azure Key Vault integrations)
+    *   Audit logging and monitoring
+*   Ensure bots adhere to enterprise security and compliance standards.
+*   Support vulnerability assessments, audits, and compliance reviews.
+
+
+Certificate Policy Changes
+
+*   Manage and implement updates related to certificate policies or encryption standards.
+*   Coordinate policy changes across environments without impacting running automations.
+*   Validate post‑change bot connectivity and security compliance.
+*   Maintain documentation and change records for audit purposes.
+
+
+
+Technical Governance
+
+*   Establish and enforce RPA governance frameworks covering:
+    *   Environment management
+    *   Security controls
+    *   Deployment standards
+    *   Operational procedures
+*   Define escalation paths and operational responsibilities.
+*   Ensure platform stability, compliance, and scalability as the RPA footprint grows.
+
+
+
+Policies, Standards & Best Practices
+
+*   Define and maintain UiPath platform policies, standards, and best practices.
+*   Ensure consistent implementation of:
+    *   Naming conventions
+    *   Folder structures
+    *   Asset usage
+    *   Logging and exception handling standards
+*   Govern RPA operations to ensure controlled, compliant, and efficient execution.
+
+
+
+Code Propagation (Dev / Test / Sandbox to Production)
+
+*   Manage controlled movement of automation packages across environments.
+*   Ensure release approvals, version control, and deployment documentation are followed.
+*   Validate dependencies, assets, queues, and configurations during releases.
+*   Support rollback procedures in case of deployment issues.
+
+
+Code Review & Quality Checks
+
+*   Conduct technical reviews of automation packages before production deployment.
+*   Validate compliance with:
+    *   UiPath development standards
+    *   REFramework usage
+    *   Security and logging requirements
+*   Identify risks related to performance, maintainability, or scalability.
+*   Provide feedback and recommendations to development teams.
+
+Preferred
+
+*   UiPath Certified RPA Associate (UiRPA‑A) or actively preparing
+*   Experience in enterprise production support with SLA‑driven environments
+*   Good to have UiPath Infra / Admin Certifications
+*   Good to have any cloud certification
+
+
